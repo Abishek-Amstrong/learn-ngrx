@@ -123,11 +123,23 @@
       "id": 2
     },
     {
-      "name": "Plain Ol' Pepperoni",
+      "name": "Pepporoni",
       "toppings": [
         {
-          "id": 10,
-          "name": "pepperoni"
+          "id": 3,
+          "name": "basil"
+        },
+        {
+          "id": 2,
+          "name": "bacon"
+        },
+        {
+          "id": 1,
+          "name": "anchovy"
+        },
+        {
+          "id": 4,
+          "name": "chili"
         }
       ],
       "id": 3
